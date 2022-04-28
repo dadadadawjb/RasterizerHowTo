@@ -7,6 +7,7 @@ A handwritten rasterizer with clean and well-annotated C++ implementation for sy
 * Mesh rasterization.
 * Z-buffering algorithm.
 * MSAA super-sampling anti-aliasing.
+* Barycentric coordinates interpolation.
 * Normal, Blinn-Phong, texture, bump and displacement mappings.
 
 ## Get Started
